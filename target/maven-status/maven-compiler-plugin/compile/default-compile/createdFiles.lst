@@ -1,0 +1,5 @@
+com/assessment/controller/BookController.class
+com/assessment/configuration/CacheConfig.class
+com/assessment/App.class
+com/assessment/service/ProcessService.class
+com/assessment/model/Book.class
